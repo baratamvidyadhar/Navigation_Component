@@ -1,0 +1,48 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows></Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls />
+  <EntityDataProviders />
+  <CanvasApps>
+    <CanvasApp>
+      <Name>cr2b5_navigation_d7946</Name>
+      <AppVersion>2022-11-02T11:28:14Z</AppVersion>
+      <Status>Ready</Status>
+      <CreatedByClientVersion>3.22104.18.0</CreatedByClientVersion>
+      <MinClientVersion>3.22104.18.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"150","primaryDeviceHeight":"640","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.22104.18","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20221102T093025Z-3.22104.18.0"}</Tags>
+      <IsCdsUpgraded>0</IsCdsUpgraded>
+      <GalleryItemId xsi:nil="true"></GalleryItemId>
+      <BackgroundColor>RGBA(251,101,60,255)</BackgroundColor>
+      <DisplayName>navigation_</DisplayName>
+      <Description xsi:nil="true"></Description>
+      <CommitMessage xsi:nil="true"></CommitMessage>
+      <Publisher xsi:nil="true"></Publisher>
+      <AuthorizationReferences>[]</AuthorizationReferences>
+      <ConnectionReferences>{}</ConnectionReferences>
+      <DatabaseReferences>{}</DatabaseReferences>
+      <AppComponents>[{"appComponentName":"c899e591c12d484ca288891c2b63e859","displayName":"navigation","appName":"96101b20-3195-4e91-934a-5799d2bbbc05","appVersion":"2022-11-02T11:28:14Z","appComponentLibraryLogicalName":"cr2b5_navigation_d7946","appDisplayName":"navigation_","environmentName":"default-e4b834d1-4ab9-4e19-8088-2ca100ef15d2","owner":{"id":"9809e69c-5adb-4baa-8f56-a97aef5e297b","displayName":"Baratam Vidyadhar","email":"BaratamVidyadhar@Avinz.onmicrosoft.com","type":"User","tenantId":"e4b834d1-4ab9-4e19-8088-2ca100ef15d2","userPrincipalName":"BaratamVidyadhar@Avinz.onmicrosoft.com"},"allowCustomization":true,"createdOn":"2022-11-02T08:45:42.516Z","lastModifiedOn":"2022-11-02T11:27:00.486Z","connectionReferences":{},"databaseReferences":{}}]</AppComponents>
+      <AppComponentDependencies>[]</AppComponentDependencies>
+      <CanConsumeAppPass>1</CanConsumeAppPass>
+      <CanvasAppType>1</CanvasAppType>
+      <BypassConsent>0</BypassConsent>
+      <AdminControlBypassConsent>0</AdminControlBypassConsent>
+      <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+      <IsCustomizable>1</IsCustomizable>
+      <BackgroundImageUri>/CanvasApps/cr2b5_navigation_d7946_BackgroundImageUri</BackgroundImageUri>
+      <DocumentUri>/CanvasApps/cr2b5_navigation_d7946_DocumentUri.msapp</DocumentUri>
+    </CanvasApp>
+  </CanvasApps>
+  <Languages>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>
