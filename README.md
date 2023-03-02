@@ -12,3 +12,7 @@ How to use?
 
 1)Upload the zip folder(navigation_component_1_0_0_2.zip) in solution in your power apps (make.powerapps.com)
 2)Add canvas apps to the solution and add this component.
+
+or
+
+Import the .msapp file alone into application.
